@@ -1,0 +1,7 @@
+{
+  "name": "SOMNIUM - Dreamcore Horror Game",
+  "description": "Official Windows website and download portal for SOMNIUM, a psychological liminal dreamcore horror game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
